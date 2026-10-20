@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "marshmallow-peewee",
+  "versions": [
+    {
+      "commit": "010c7d6c6945a8a18aa13f8244727079ee83ccf3",
+      "parsed_at": "2026-10-20T21:07:36.463836+00:00",
+      "filetree": "filetree/010c7d6c6945a8a18aa13f8244727079ee83ccf3.nq.gz",
+      "blobs": [
+        "blob/4257bdd5e2b6be5aaac5372ba6e9a6a54b81456c.nq.gz",
+        "blob/f7e22616a79304f4aab9ec0442d13e5ba9607313.nq.gz",
+        "blob/460e258d9db9fc868683524476698e3740a1c019.nq.gz",
+        "blob/b21b563e9f6975d27ef19ece049ac6e66903c53f.nq.gz",
+        "blob/e36328d6047f50240b8a5427b3414099769b75f5.nq.gz",
+        "blob/a854dd94a785f134f19c3e252dcfb8d48e1c2188.nq.gz",
+        "blob/e49e804710bfd37b6823bf4702c32b7dde3a6cb2.nq.gz",
+        "blob/8efd9e77f63f9b2e47ebf90ba22c595dc890b091.nq.gz",
+        "blob/41d4cb1a1da6059b06e833521ea16646bcd75f57.nq.gz",
+        "blob/dd3eed1767d8d38fca0756d05d95c7f217d2e4c2.nq.gz",
+        "blob/3762e4182d51d550390af8e0923f07ea5ef7ba0e.nq.gz",
+        "blob/fe2abd7c199b001839adb9c6cddbc6d9109988ea.nq.gz",
+        "blob/d857711bde4eaaff2d0c7222a6de587f6b763a24.nq.gz",
+        "blob/2f899abd23c109c3937ecdd66ebd49c783190f45.nq.gz",
+        "blob/26aa047e53427f8c81bdebb08929998066029cdf.nq.gz",
+        "blob/04a0caf0083929ab66637582e2107bff67b81da2.nq.gz",
+        "blob/ba10c226d67fa393182fabad7d240ea1e730d59d.nq.gz",
+        "blob/5788e730d46b0c4341df78c9ceb5b58822aca0c2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/d59a211e6a03ffcb5defe7bbcca956e31cdbaaba.nq.gz",
+        "blob/d063574d7f82f53b73cccb989fc0dc1b523251e9.nq.gz",
+        "blob/ab98a33b1b7b768dca9c21e644118e4fb27ece2d.nq.gz",
+        "blob/17c7be657d493d5b89a33662d333048d6c0fd951.nq.gz",
+        "blob/6b2e6a8470edc1ea6fef9b74c44592b1ca929d47.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
