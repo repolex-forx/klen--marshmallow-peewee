@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/marshmallow-peewee/commit/010c7d6c6945a8a18aa13f8244727079ee83ccf3",
       "git:hexsha": "010c7d6c6945a8a18aa13f8244727079ee83ccf3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/marshmallow-peewee/commit/b02d860b2b8c4b38efba92bcc42e6af55134d40f",
