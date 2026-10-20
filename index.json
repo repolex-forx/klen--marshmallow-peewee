@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "marshmallow-peewee",
+  "versions": [
+    {
+      "commit": "010c7d6c6945a8a18aa13f8244727079ee83ccf3",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:09:43.214222+00:00"
+    }
+  ]
+}
